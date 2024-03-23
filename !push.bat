@@ -1,5 +1,5 @@
-git init
 git add .
+git diff --staged
 git commit
-git push -u https://github.com/codesmith-ahmad/sqlite-module master
+git push
 pause
